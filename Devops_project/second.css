@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card {
+    color: white;
+        background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+	    height: 100vh;
+	        background-size: cover;
+		    font-family: "Roboto";
+		    }
+
+		    .main-heading {
+		        text-align: center;
+			    font-size: 37px;
+			        padding: 5px;
+				    font-weight: bold;
+				    }
+
+				    .para {
+				        font-size: 15px;
+					    font-weight: lighter;
+					        padding: 5px;
+						    text-align: center;
+						    }
+
+						    .side-heading {
+						        font-size: 20px;
+							    padding: 5px;
+							    }
+
+							    .paragraph {
+							        font-size: 15px;
+								    padding: 5px;
+								    }
+
+								    .button {
+								        background-color: orange;
+									    color: white;
+									        height: 30px;
+										    width: 70px;
+										    }
+
+										    .paragraph1 {
+										        text-decoration: underline;
+											    font-size: 10px;
+											        text-align: center;
+												}
+
+												.for-button {
+												    text-align: center;
+												    }
